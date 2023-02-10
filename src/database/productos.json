@@ -1,0 +1,33 @@
+{
+  "productos": {
+    "cereales": {
+      "nombre": "Arroz inflado",
+      "precio": 5
+    },
+    "colacao": {
+      "nombre": "Colacao",
+      "precio": 1.45
+    },
+    "aguamineral": {
+      "nombre": "Agua mineral",
+      "precio": 1
+    },
+    "prueba": {
+      "nombre": "prueba",
+      "precio": "2",
+      "fecha": "2023-01-22T22:12:48.091Z"
+    },
+    "monster": {
+      "nombre": "monster",
+      "precio": "3",
+      "fecha": "2023-01-22T22:13:45.531Z"
+    },
+    "undefined": {
+      "nombre": "Coca Cola",
+      "precio": 1.5,
+      "idProducto": "3d50bc30-a145-11ed-822d-5393e6781363",
+      "fecha_alta": "31/1/2023",
+      "fecha_cad": "Invalid Date"
+    }
+  }
+}
